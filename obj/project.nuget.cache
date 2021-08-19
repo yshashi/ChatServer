@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LO1lIwQX22uiNSnj83qCp3v4cVmwczSLUDgOj+0plP3EiPsKanGFBc5MAE0RzuG4SvZ1F4DKgaF7kR1nGomzWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sashi\\source\\repos\\ChatService\\ChatService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sashi\\.nuget\\packages\\microsoft.aspnet.signalr\\2.4.2\\microsoft.aspnet.signalr.2.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}
